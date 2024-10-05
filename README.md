@@ -1,7 +1,7 @@
 # Hello World!
 
 - 👋 Hi, I’m Zona Diatri
--  I’m a mentee on IBM Advance AI at Infinite Learning
+-  I’m a mentee on IBM Advance AI at Infinite Learning MSIB BATCH 6
 - 👀 I’m interested in AI and Desain Grafis
 - 🌱 I’m currently learning Python
 - 📫 How to reach me
