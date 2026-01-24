@@ -23,14 +23,9 @@ An **AI enthusiast** with a strong interest in **Machine Learning**.
 ---
 
 ## 📫 Connect with Me
+- 💼 LinkedIn: [Zona Diatri](https://www.linkedin.com/in/zona-diatri-1275a0222/)
 - 📸 Instagram: [@zonadiatry_](https://instagram.com/zonadiatry_)
 
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
-
-
-<!---
-zonadiatri/zonadiatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
